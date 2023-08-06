@@ -19,3 +19,21 @@ a {
 .phone {
     color: white;
 }
+
+.caption {
+    font-family: verdana;
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+
+.subheading {
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+}
